@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {text-align: center;
+}
+html{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header{
+    padding: 10vmin;
+    background: black;
+    text-align: center;
+margin-bottom: 2vmin;
+}
+
+.header h1{
+    font-size: 10vmin;
+}
+.wrapper{
+    background:red;
+    widows: 400px ;
+    height: 300vh;
+    max-width: 1200px;
+    margin: 0 auto;
+}.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.gallery__item{
+    margin: 2vmin;
+
+}
