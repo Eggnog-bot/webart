@@ -1,0 +1,15 @@
+@font-face{
+    font-family: 'gingham';
+    src: url(Gingham/Gingham.woff2)format('woff2')
+}
+html{
+    font-family: 'Gingham',sans-serif;
+    padding: 80px;
+
+}
+h1{
+ font-variation-settings: "wght"700, "wdth" 400
+}
+h2{
+    font-variation-settings: "wght"0, "wdth"0
+   }
