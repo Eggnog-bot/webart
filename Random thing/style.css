@@ -1,0 +1,12 @@
+nav{
+    margin-left: 800px;
+    margin-top: 100px;
+    
+    height: 200px;
+    width: 200px;
+    ;
+}
+a:hover{ background: #971313}
+a:active{ background: #470909}
+
+
