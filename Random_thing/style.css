@@ -1,0 +1,19 @@
+.alt-box{
+    height:200px ;
+    width:300px ;
+    background:rgb(136, 28, 28);
+    box-shadow: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    
+
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
